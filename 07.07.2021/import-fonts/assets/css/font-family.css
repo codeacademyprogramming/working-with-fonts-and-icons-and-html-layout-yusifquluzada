@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Anabelle Script';
+    src: url('AnabelleScript.eot');
+    src: url('../fonts/AnabelleScript.eot') format('embedded-opentype'),
+        url('../fonts/AnabelleScript.woff2') format('woff2'),
+        url('../fonts/AnabelleScript.woff') format('woff'),
+        url('../fonts/AnabelleScript.ttf') format('truetype'),
+        url('../fonts/AnabelleScript.svg#AnabelleScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
