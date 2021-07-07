@@ -1,0 +1,46 @@
+/* html {
+    font-family: Roboto, Arial, Helvetica, "Times New Roman", sans-serif;
+} */
+
+/* div {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+div.custom-font-size h1 {
+    font-size: 35px;
+}
+
+div.custom-font-size h2 {
+    font-size: 30px;
+}
+
+div.custom-font-size h3 {
+    font-size: 25px;
+} */
+/* 
+p {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+html {
+    font-family: "Beradon Script", Arial, Helvetica, sans-serif;
+} */
+
+.eye-icon.red g path {
+    fill: red;
+}
+
+.eye-icon.full-opacity g path {
+    fill-opacity: 1;
+}
+
+img {
+    filter: grayscale(1);
+}
+
+img:hover {
+    filter: initial;
+}

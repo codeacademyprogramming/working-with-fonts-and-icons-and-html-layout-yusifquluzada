@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Beradon Script";
+    src: url("BeradonScript.eot");
+    src: url("../fonts/BeradonScript.eot?#iefix") format("embedded-opentype"), 
+        url("../fonts/BeradonScript.woff2") format("woff2"),
+        url("../fonts/BeradonScript.woff") format("woff"), 
+        url("../fonts/BeradonScript.ttf") format("truetype"),
+        url("../fonts/BeradonScript.svg#BeradonScript") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
